@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm an Engineering Manager and developer with an interest in open-source.
+
+🔭 I'm currently working on:
+
+- [https://github.com/openlawnz](OpenLaw NZ) - a charity I co-founded
+- [https://github.com/williamparry/node-static-cms](Node Static CMS) - a static site generator CMS using puppeteer and Git. Not sure where it'll go but the concept is neat
+
+👯 Happy to collaborate on anything interesting that will increase my skillset :)
+
 <!--
 **williamparry/williamparry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
